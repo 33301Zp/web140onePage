@@ -1,0 +1,55 @@
+body {
+    background-color: rgb(50, 48, 173);
+}
+* {
+    text-align: center;
+}
+article {
+    background-color: rgba(187, 152, 243, 0.767);
+    width: 100%;
+    height: 100%;
+    margin: 30px;
+    box-sizing: border-box;
+    border: 20px dotted rgb(123, 65, 231);
+    padding: 20px;
+    margin: auto;
+}
+h1, h2 {
+    color: white;
+    font-family: "Courier New", Courier, monospace;
+
+}
+footer {
+    color: white;
+    font-family: "Courier New", Courier, monospace;
+}
+.one {
+    color: rgb(231, 31, 31);
+    font-size: 50px;
+    font-family: "Brush Script MT", cursive;
+}
+.two {
+    color: rgb(247, 127, 29);
+    font-size: 50px;
+    font-family: Copperplate, Papyrus, fantasy;
+}
+.three {
+    color: rgb(255, 251, 0);
+    font-size: 50px;
+    font-family: Luminari, fantasy;
+}
+.four {
+    color: rgb(10, 150, 5);
+    font-size: 60px;
+    font-family: "Brush Script MT", cursive;
+}
+.five {
+    color: rgb(4, 0, 255);
+    font-size: 50px;
+    font-family: Copperplate, Papyrus, fantasy;
+}
+.six {
+    color: rgb(104, 0, 165);
+    font-size: 50px;
+    font-family: Luminari, fantasy;
+}
